@@ -1,7 +1,5 @@
 # A polynomial time algorithm for $$k$$-cut for a fixed $$k$$
----
 ## Contributors & Presenters
----
 
 Soumil Baksi (CMI)
 Lucky Kispotta (CMI)
